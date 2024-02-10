@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1698552961 source:c:\algoritmia\hipercor\date.cpp
+	"date.hpp"
+	<ctime>
+	<iostream>
+	<string>
+
+1697414165 c:\algoritmia\hipercor\date.hpp
+	<string>
+
+1698035775 source:c:\algoritmia\hipercor\employee.cpp
+	"employee.hpp"
+	<iostream>
+	<string>
+	<random>
+	<cstring>
+	<sstream>
+	<iomanip>
+
+1698552384 c:\algoritmia\hipercor\employee.hpp
+	<string>
+	"date.hpp"
+
+1698024954 source:c:\algoritmia\hipercor\main.cpp
+	<iostream>
+	<string>
+	<list>
+	"employee.hpp"
+	"menu.hpp"
+
+1698029152 c:\algoritmia\hipercor\menu.hpp
+	"employee.hpp"
+	<list>
+
+1698033567 source:c:\algoritmia\hipercor\menu.cpp
+	"menu.hpp"
+	<iostream>
+
